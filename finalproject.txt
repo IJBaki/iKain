@@ -29,11 +29,15 @@ The leverage of the Internet over the business sectors has been totally emerging
 
 Most transformation of businesses to coordinate new technologies requires different stages of collaboration and strategic discussions. The effectiveness of this innovative ideas has resulted to a most robust and virtually successful businesses in local, national and international.
 
+
+
 Objectives 
 
 Organizations of 21st Century centers their operations with the use of Information System(s) to manage services; sell products; generate business strategy; and mainly to survive the demand of the market. Innovation is a must in every business organization today, as it serves as an ingredient of success. 
 
 iKain is a mobile app that caters the need of Micro, Small and Medium Enterprises to engage with the competition of marketable products and services.  This will help our SMEs fathom the problem with ASEAN Integration as the most vulnerable factor in our country’s adoption of AEC. This will help draw the attention of the consumers and design a business strategy to address the limitations that could occur during the operation of the business. The researchers will add the UP-ISSI model (University of the Philippines - Institute for Small-Scale Industries) that will assist in the creation of business plans, and selling techniques in most effective and creative way. 
+
+
 
 Review of Related Literature
 
@@ -60,6 +64,7 @@ Bhargave et.al. (2013), Mustafa et.al. (2012), and Ayob (2013) have all supporte
 The influx of an online ordering system, as attested by Valenzuela (2014) greatly affected what tends to be done in a matter of the blink of an eye as it permits a customer to submit online orders for items and services from a restaurant that serves both walk-in customers and online customers.
 
 With the advancement in the computer and communication technology, various systems were launched in market for the purpose of automation of the food ordering system. Some of which are QOrder, Personal Digital Assistants (PDAs), and multitouch technology.
+
 
 
 REFERENCES
