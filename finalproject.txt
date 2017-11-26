@@ -1,8 +1,3 @@
-
-
-
-
-
 University of the Cordilleras
 College of Information Technology and Computer Science
 Master in Information Technology
@@ -15,12 +10,10 @@ Ian Jones Backian
 1st Trimester, SY: 2016-2017
 
 
-
-
-
+**********************************
 Introduction 
 
-Small-scale businesses or the so called Micro, Small and Medium Enterprises (mostly referred to as “MSMEs”)  has became a resurgence of interest over the Philippine trading industry. It contributes a significant impact over the economy in pursuing economic development. MSMEs employ 70 percent of the country’s total workforce that make up 99.6 percent of the country’s registered business establishments (Department of Trade and Industry, 2016). 
+Small-scale businesses or the so called Micro, Small and Medium Enterprises (mostly referred to as “MSMEs”) has became a resurgence of interest over the Philippine trading industry. It contributes a significant impact over the economy in pursuing economic development. MSMEs employ 70 percent of the country’s total workforce that make up 99.6 percent of the country’s registered business establishments (Department of Trade and Industry, 2016). 
 
 In an Editorial in Manila Times (2016), MSMEs are the most vulnerable in the ASEAN Integration movement with the non-tariff barriers removed, which make markets more open and more competitive. MSMEs should be given more access on government resources and those coming from other financial institutions to be able to improve their products and operations-and themselves more able to compete against the stronger ASEAN rivals. They are encouraged to adapt best practices and benchmarking in the productivity of their products and services. 
 With the implementation of ASEAN Integration, marketing your products in traditional way would become less effective and more expensive with a higher probability to cease trading.  This is however, a win-lose situation to all MSMEs in welcoming the said free economic trading of ASEAN Economic Community (AEC). Philippine MSMEs who are expanding their horizons should invest well  in understanding the documentary procedures for taking advantages of trading concessions.
@@ -29,52 +22,32 @@ The leverage of the Internet over the business sectors has been totally emerging
 
 Most transformation of businesses to coordinate new technologies requires different stages of collaboration and strategic discussions. The effectiveness of this innovative ideas has resulted to a most robust and virtually successful businesses in local, national and international.
 
+************************************************************************************************************
+Problem
 
+The challenges encountered by the office workers espetially during lunch time which serve as the costumers experience that are stated in the following; The experience of ordering in most fast food restaurants is each time you order, the menu are always the same. Customers will have to make long queues before placing their orders especially during peak hours and then the ordering staff will record customer orders. Having placed their order, the customer must then wait near the counter until their order is ready for collection. 
+  The other problem in the food service industry is that restaurants are notrealizing the efficiencies that would result from better application of technology in their dailyoperations. No ASEAN integration to leverage internet over the business sectors to totally emerge.
 
-Objectives 
+***********************************************************************************************************************
+Objectives
 
-Organizations of 21st Century centers their operations with the use of Information System(s) to manage services; sell products; generate business strategy; and mainly to survive the demand of the market. Innovation is a must in every business organization today, as it serves as an ingredient of success. 
+To develop an application that will surely satisfied the customer service.
 
-iKain is a mobile app that caters the need of Micro, Small and Medium Enterprises to engage with the competition of marketable products and services.  This will help our SMEs fathom the problem with ASEAN Integration as the most vulnerable factor in our country’s adoption of AEC. This will help draw the attention of the consumers and design a business strategy to address the limitations that could occur during the operation of the business. The researchers will add the UP-ISSI model (University of the Philippines - Institute for Small-Scale Industries) that will assist in the creation of business plans, and selling techniques in most effective and creative way. 
+To design an application able to accommodate huge amount of orders at a time and empower small scale businesses.
+  This aims the to envolve every establishment of certain area like Baguio which the LGU's are now planning for a Digital city in which ASEAN integration encouraged to adapt best practices and benchmarking in the productivity of their products and services. 
+With the implementation of ASEAN Integration, marketing your products in traditional way would become less effective and more expensive with a higher probability to cease trading.
 
+To design an application for costumers to choose more than what is in the menu of each restaurant.
 
+To design an application for the costumer to choose which restaurant or 
 
-Review of Related Literature
+To evaluate its performance and acceptability in terms of security, user-friendliness, accuracy and reliability.
 
-Eating lunch is very much important. Mental Healthy describes a study in which it was found that one in four people do not take a break for lunch, and one in three people eat lunch at their work desk. They do so because they want to save time; however, taking a break to eat lunch keeps the brain active and helps with concentration throughout the latter part of the afternoon. If someone works in a stressful environment, a lunch break is an opportunity for him to step away and collect his thoughts; this helps prevent a build-up of stress and many health complications that arise from stress.
+To improve the communication between the client and the server and minimize the time of ordering.
+ -One of the main objectives of a restaurant to ensure customer satisfaction. Manual listing of orders by the waiters/waitresses may result to slow response in customer service. Hence, if the restaurant uses the proposed system, manipulation of orders to the customers be so easy and quick by just touching on the tablet and choosing the desired menu.
 
-At the same time, work is also very important to a person. Earning money is considered as the most persuasive reason people work. However, people are also said to work to engage in a personal passion, to achieve personal fulfillment, to challenge themselves, to grow and to have a place to belong. Since work is very vital and the more people work, they think that they receive greater compensation even if it would cause them from missing their meals.
-
-In a national Web survey conducted by Right Management 2013 in the United States, only a third of American workers say they take a lunch break. This survey also found that 75% of workers eat at their desks or do not take a break at all.
-
-Another employment consultant found that less one-fifth of executives surveyed ate lunch at a sit-down restaurant, about 40% take a brown-bag lunch and 17% eat fast food.
-
-In the case of the Filipinos especially the Cordillerans, people who work would most likely see to it that they eat their lunch. However, one hour lunch break is not enough especially if they have to eat out and wait for their orders to be served. This could then result to entering back to work late and could lead them to human resources policy infringement or could lead them to be doing delayed jobs.
-
-As Reddy et.al. (2016) cited that ‘manual food ordering system uses waiter to take order from customers and customers may be too packed to be served by them during peak hours.” This could end up to the dropping of quality service and can cause customer dissatisfaction. Lest the restaurant hire too many waiters, it may be a waste of resources during non-peak hours. Poonam et. al. (2016) stated that the “basic problem in the food service industry is that restaurants are not realizing efficiencies that would result from better applications of technology in their daily operations.” Fast foods has counters where customer can place orders and then make payment, yet this would need more employees to take order and process the payment. 
-
-Mustafa et. al. (2012) cited that in earlier days, food ordering was a completely manual process where a waiter used to note down orders from the customers using pen and paper, take orders to the kitchen, bring the food and make the bill. Although this system is simple, it requires extensive investment in purchase and storage of paper, large manpower and also is prone to human errors and greater time consumption.
-
-This mentioned business process on the traditional food ordering system can then be improved with the integration of Information Technology specifically with the emergence of information systems. 
-
-In order to overcome these limitations in manual system, some systems were developed like PDA-based systems and multi-touchable restaurant management systems to automate food ordering process.
-
-Bhargave et.al. (2013), Mustafa et.al. (2012), and Ayob (2013) have all supported the thought that the rapid growth in communication technology emergence of wireless technology and android devices has created quite a stir in the business transactions wherein hospitality industry has been greatly influenced and competition has increased due to improved food ordering techniques.
-
-The influx of an online ordering system, as attested by Valenzuela (2014) greatly affected what tends to be done in a matter of the blink of an eye as it permits a customer to submit online orders for items and services from a restaurant that serves both walk-in customers and online customers.
-
-With the advancement in the computer and communication technology, various systems were launched in market for the purpose of automation of the food ordering system. Some of which are QOrder, Personal Digital Assistants (PDAs), and multitouch technology.
-
-
-
-REFERENCES
-POONAM, K., PRIYA, K., SNEHAL, K. 2016. Self-Served Food Ordering System. Imperial Journal of Interdisciplinary Research (IJIR). Vol.2 Issue 5.
-
-BHARGAVE, A. JADHAV, N., JOSHI, A. OKE, P. 2013. International Journal of Scientific and Research Publications. Vol. 3 Issue 4.
-
-AYOB, K. 2013. The Application of Wireless Food Ordering System. Vol. 1.
-
-REDDY, S. CHAITANYA, K. ABHINAV, M. FEIROZ, K. 2016. An Online Food Court Ordering System. JITSE. Vol6 Issue10.
+To automatically compute the bill.
+  -The system will also automatically calculate and displays the final bill so the bills will ready to print without having any error because the information for that item is already inserted.
 
 
 
