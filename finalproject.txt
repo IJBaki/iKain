@@ -1,13 +1,7 @@
-University of the Cordilleras
-College of Information Technology and Computer Science
-Master in Information Technology
-
-MIT CC01
 iKain (online Food Ordering)
 Project Management / Project Proposal
 
 Ian Jones Backian
-1st Trimester, SY: 2016-2017
 
 
 **********************************
@@ -15,12 +9,9 @@ Introduction
 
 Small-scale businesses or the so called Micro, Small and Medium Enterprises (mostly referred to as “MSMEs”) has became a resurgence of interest over the Philippine trading industry. It contributes a significant impact over the economy in pursuing economic development. MSMEs employ 70 percent of the country’s total workforce that make up 99.6 percent of the country’s registered business establishments (Department of Trade and Industry, 2016). 
 
-In an Editorial in Manila Times (2016), MSMEs are the most vulnerable in the ASEAN Integration movement with the non-tariff barriers removed, which make markets more open and more competitive. MSMEs should be given more access on government resources and those coming from other financial institutions to be able to improve their products and operations-and themselves more able to compete against the stronger ASEAN rivals. They are encouraged to adapt best practices and benchmarking in the productivity of their products and services. 
-With the implementation of ASEAN Integration, marketing your products in traditional way would become less effective and more expensive with a higher probability to cease trading.  This is however, a win-lose situation to all MSMEs in welcoming the said free economic trading of ASEAN Economic Community (AEC). Philippine MSMEs who are expanding their horizons should invest well  in understanding the documentary procedures for taking advantages of trading concessions.
-
 The leverage of the Internet over the business sectors has been totally emerging. This is the reason large companies and conglomerates have decided to shift their cultures and understand the capacity of Information Technology.  Business Integration synchronizes IT and align business strategy and goals to absorb IT as a firm function. 
 
-Most transformation of businesses to coordinate new technologies requires different stages of collaboration and strategic discussions. The effectiveness of this innovative ideas has resulted to a most robust and virtually successful businesses in local, national and international.
+Most transformation of businesses to coordinate new technologies requires different stages of collaboration and strategic discussions. The effectiveness of this innovative ideas has resulted to a most robust and virtually successful businesses in local.
 
 ************************************************************************************************************
 Problem
@@ -32,37 +23,14 @@ The challenges encountered by the office workers espetially during lunch time wh
 Objectives
 
 To develop an application that will surely satisfied the customer service.
-
 To design an application able to accommodate huge amount of orders at a time and empower small scale businesses.
-  This aims the to envolve every establishment of certain area like Baguio which the LGU's are now planning for a Digital city in which ASEAN integration encouraged to adapt best practices and benchmarking in the productivity of their products and services. 
-With the implementation of ASEAN Integration, marketing your products in traditional way would become less effective and more expensive with a higher probability to cease trading.
-
 To design an application for costumers to choose more than what is in the menu of each restaurant.
-
 To design an application for the costumer to choose which restaurant or 
-
 To evaluate its performance and acceptability in terms of security, user-friendliness, accuracy and reliability.
-
 To improve the communication between the client and the server and minimize the time of ordering.
- -One of the main objectives of a restaurant to ensure customer satisfaction. Manual listing of orders by the waiters/waitresses may result to slow response in customer service. Hence, if the restaurant uses the proposed system, manipulation of orders to the customers be so easy and quick by just touching on the tablet and choosing the desired menu.
-
 To automatically compute the bill.
-  -The system will also automatically calculate and displays the final bill so the bills will ready to print without having any error because the information for that item is already inserted.
+ 
+***********************************************************************************************************************
+Scope
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This covers the MSME's along Baguio City especially Small scale Busisnesses.
